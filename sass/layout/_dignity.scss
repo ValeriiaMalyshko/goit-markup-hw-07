@@ -3,11 +3,11 @@
     line-height: 1.71;
     padding: 94px 0;
 }
-.dignity .list {
+.digity__list {
     display: flex;
     flex-wrap: wrap;
 }
-.dignity .item {
+.dignity__item {
     width: 270px;
     margin-right: 30px;
 
@@ -16,7 +16,7 @@
       }
 }
 
-.dignity-title {
+.dignity__title {
     color:var(--title-text-color);
     font-weight: bold;
     font-size: 14px;
@@ -24,7 +24,7 @@
     text-transform: uppercase;
     margin-bottom: 10px;
 }
-.dignity-icon {
+.dignity__icon {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -34,10 +34,10 @@
     margin-bottom: 30px;
 
 }
-.antenna-icon,
-.clock-icon,
-.diagram-icon,
-.astonaut-icon {
+.dignity__antenna-icon,
+.dignity__clock-icon,
+.dignity__diagram-icon,
+.dignity__astonaut-icon {
     display: flex;
     width: 70px;
     height: 70px;
