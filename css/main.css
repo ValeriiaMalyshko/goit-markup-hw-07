@@ -654,7 +654,7 @@ img {
   fill: var(--accent-color);
 }
 
-.main-projects {
+.container.main-projects {
   padding-top: 94px;
   padding-bottom: 94px;
 }
